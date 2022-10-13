@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css" />
+    <script src="javascript.js"></script>
+</head>
+<body>
+    <div class="loginDiv">
+        <table class="loginTable">
+            <h4 style="position:absolute; left: 15px; top: 25px; margin: 0;">Sign in</h3>
+        <form name="login">
+            <tr>
+                <td class="tdUsername">
+                    <input class="userName" type="text" name="username_in" id="username" required/>
+                    <label class="userLog" for="username">Username</label>
+                </td>
+            </tr>
+            <tr>
+                <td class="tdPassword">
+                    <input class="passWord" type="password" name="password_in" id="password" required/>
+                    <label class="passLog" for="password">Password</label>
+
+                    <img src="/GoogleLogin_ProgExer8/google-signin-button.png" class="googleSignin" onclick="openWin()">
+                    <div class="loginButton" onclick="loginAttempt();">
+                        Login
+                    </div>
+                    <div class="SignUpButton" onclick="location.href='cap.py';">
+                         Sign up
+                    </div>
+                </td>
+            </tr>
+        </form>
+        </table>
+    </div>
+</body>
+</html>

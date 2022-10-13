@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+<head>
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css"/>
+    <link rel="stylesheet" href="tooltip.css">
+    <script src="javascript.js"></script>
+    <script src="tooltip.js"></script>
+</head>
+<body>
+    <div class="MB_cat_div" style="border-collapse: collapse;">
+        <table id="cat_table_ID" class="MB_cat_table">
+            <td><h4 style="padding-left:20px;">Categories</h4></td>
+            
+            <tr>
+                <th class="bottomPic" onclick="loadMBXMLDoc()" onmouseover="tooltip.ajax(this, 'products.xml', mbAjaxSetting, {position:0})" >
+                    <img src="pics/motherboard.jpg" width="130" height="130"/>Motherboard
+                </th>
+                
+                <th class="bottomPic" onclick="loadcpuXML()" onmouseover="tooltip.ajax(this, 'products.xml', cpuAjaxSetting, {position:0})">
+                    <img src="pics/cpu.jpg" width="130" height="130" />Processors
+                </th>
+
+                <th class="bottomPic" onclick="loadmemBankXML()" onmouseover="tooltip.ajax(this, 'products.xml', memAjaxSetting, {position:0})">
+                     <img src="pics/ram.jpg" width="130" height="130" /><br />Memory
+                </th>
+
+                <th class="bottomPic" onclick="loadpcCaseXML()" onmouseover="tooltip.ajax(this, 'products.xml', caseAjaxSetting, {position:0})">
+                    <img src="pics/PC_case.jpg" width="130" height="130" /><br />PC Case
+                </th>
+
+                <th class="bottomPic" onclick="loadMonitorXML()" onmouseover="tooltip.ajax(this, 'products.xml', monitorAjaxSetting, {position:0})">
+                    <img src="pics/monitor.jpg" width="130" height="130" /><br />Monitor
+                </th>
+
+                <th class="bottomPic">
+                    <img src="pics/flashDrive.jpg" width="130" height="130" /><br />Storage
+                </th>
+
+                <th class="bottomPic"><img src="pics/projector.jpg" width="130" height="130" /><br />
+                    Projector</th>
+                <th class="bottomPic"><img src="pics/Peripherals.jpg" width="130" height="130" />Peripherals</th>
+                <th class="bottomPic"><img src="pics/Cables.png" width="130" height="130" /><br />
+                    Cables</th>
+                <th class="bottomPic"><img src="pics/Desks.jpg" width="150" height="150" /><br />
+                    Desks</th>
+            </tr>
+            <tr>
+                <th class="bottomPic"><img src="pics/Coolers.jpg" width="130" height="130"/><br />
+                    Coolers</th>
+                <th class="bottomPic"><img src="pics/GPU.png" width="130" height="130" /><br />
+                    Graphics Card</th>
+                <th class="bottomPic"><img src="pics/Softwares.png" width="130" height="130" /><br />
+                    Softwares</th>
+                <th class="bottomPic"><img src="pics/Laptops.png" width="130" height="130" /><br />
+                    Laptops</th>
+                <th class="bottomPic"><img src="pics/Phones.jpg" width="130" height="130" /><br />
+                    Phones</th>
+                <th class="bottomPic"><img src="pics/MobileAccessories.png" width="130" height="130" /><br />
+                    Mobile Accessories</th>
+                <th class="bottomPic"><img src="pics/Router.jpg" width="130" height="130" /><br />
+                    Routers</th>
+                <th class="bottomPic"><img src="pics/Webcam.jpg" width="130" height="130" /><br />
+                    Webcam</th>
+                <th class="bottomPic"><img src="pics/InkRefills.jpg" height="130" style="width: 100px" /><br />
+                    Ink Reffils</th>
+                <th class="bottomPic"><img src="pics/Games.jpg" height="130" style="width: 160px" /><br />
+                    Games</th>
+            </tr>
+        </table>
+    </div>
+    
+    <div style="padding: 130px"> </div>
+
+
+    <div class="brands" style="left:10px;">
+        <table id="POPULAR_BRANDS" class="MB_cat_table">
+            <tr>
+                <td><h4>Popular Brands</h4></td>
+           </tr>
+            <tr>
+                <th class="bottomBrands" onclick="getAcerBrands()"><img src="pics/acer.png" style="height: 36px; width: 133px;" /></th>
+                <th class="bottomBrands" onclick="getIntelBrands()"><img src="pics/intel.png" width="150" style="height: 100px" /></th>
+                <th class="bottomBrands" onclick="getAMDBrands()"><img src="pics/amd.png" style="height: 100px; width: 160px;" /></th>
+                <th class="bottomBrands" onclick="getAsusBrands()"><img src="pics/asus.png" style="height: 81px; width: 150px;" /></th>
+                <th class="bottomBrands" onclick="getKingstonBrands()"><img src="pics/kingston.png" style="height: 45px; width: 160px" /></th>
+                <th class="bottomBrands"><img src="pics/dell.png" width="100" height="100" /></th>
+                <th class="bottomBrands"><img src="pics/gigabyte.png" width="100" height="100" /></th>
+                <th class="bottomBrands"><img src="pics/msi.png"  style="height: 100px; width: 150px"></th>
+                <th class="bottomBrands"><img src="pics/razer.jpg" style="height: 100px; width: 150px" /></th>
+                <th class="bottomBrands"><img src="pics/sony.png" width="150" style="height: 150px" /></th>
+            </tr>
+        </table>
+        </div>
+    <div style="padding: 200px"> </div>
+    </body>
+</html>

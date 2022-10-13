@@ -1,0 +1,29 @@
+<orders>
+    <customers>
+        <cid>1</cid>
+        <address>NULL</address>
+        <email>myEmail@gmail.com</email>
+        <number>0931301203120</number>
+        <date>2022-10-12</date>
+        <username>myUsername</username>
+        <password>12345</password>
+    </customers>
+    <customers>
+        <cid>2</cid>
+        <address>NULL</address>
+        <email>user2@gmail.com</email>
+        <number>19203912</number>
+        <date>2022-10-12</date>
+        <username>user2</username>
+        <password>12344</password>
+    </customers>
+    <customers>
+        <cid>3</cid>
+        <address>N/A</address>
+        <email>jrd.dagaang@gmail.com</email>
+        <number>N/A</number>
+        <date>2022-10-13</date>
+        <username>N/A</username>
+        <password>N/A</password>
+    </customers>
+</orders>

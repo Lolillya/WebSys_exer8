@@ -1,0 +1,322 @@
+<orders>
+    <customers>
+      <cid>125</cid>
+      <pid>21</pid>
+      <pcat>Motherboard</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>ROG STRIX Z490-H GAMING</pname>
+      <price>14,499.00</price>
+      <picture>mb1.png</picture>    
+      <quantity>1</quantity>
+      <date>12/12/12</date>
+    </customers>
+    <customers>
+      <cid>125</cid>
+      <pid>21</pid>
+      <pcat>Motherboard</pcat>
+      <pbrand>GIGABYTE</pbrand>
+      <pname>GIGABYTE Z690 GAMING X DDR4 LGA1700</pname>
+      <price>11,994.00</price>
+      <picture>mb4.jpg</picture>    
+      <quantity>1</quantity>
+      <date>12/12/12</date>
+    </customers>
+    <customers>
+      <cid>125</cid>
+      <pid>21</pid>
+      <pcat>Motherboard</pcat>
+      <pbrand>ASUS</pbrand>
+      <pname>ROG STRIX Z490-H GAMING</pname>
+      <price>14,499.00</price>
+      <picture>mb2.png</picture>    
+      <quantity>1</quantity>
+      <date>12/12/12</date>
+    </customers>
+    <customers>
+      <cid>125</cid>
+      <pid>21</pid>
+      <pcat>Motherboard</pcat>
+      <pbrand>ASUS</pbrand>
+      <pname>ROG STRIX Z490-H GAMING</pname>
+      <price>14,499.00</price>
+      <picture>mb2.png</picture>    
+      <quantity>1</quantity>
+      <date>12/12/12</date>
+    </customers>
+    <customers>
+      <cid>126</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>Intel</pbrand>
+      <pname>Intel i9 9600k</pname>
+      <price>30,000.00</price>
+      <picture>cpu1.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>Intel</pbrand>
+      <pname>Intel core i3 3.6GHz</pname>
+      <price>6,799.00</price>
+      <picture>cpu2.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>Intel</pbrand>
+      <pname>Intel core i3 3.6GHz</pname>
+      <price>6,799.00</price>
+      <picture>cpu2.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>Intel</pbrand>
+      <pname>Intel core i5</pname>
+      <price>6,799.00</price>
+      <picture>cpu3.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank1.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank4.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Memory</pcat>
+      <pbrand>Kingston</pbrand>
+      <pname>Kingston HyperX Fury 8gb DDR4</pname>
+      <price>3,499.00</price>
+      <picture>membank5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>PC Case</pcat>
+      <pbrand>Corsair</pbrand>
+      <pname>NZXT H510 Flow (CA-H52FB-01) Tempered Glass ATX Mid Tower Chassis</pname>
+      <price>4,800.00</price>
+      <picture>pc_case3.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>PC Case</pcat>
+      <pbrand>Corsair</pbrand>
+      <pname>AIGO Dark Flash BLACK TECH MINI MATX GAMING CASING</pname>
+      <price>3,299.00</price>
+      <picture>pc_case5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>PC Case</pcat>
+      <pbrand>Corsair</pbrand>
+      <pname>Corsair 5000D Tempered Glass Mid-Tower ATX PC Case</pname>
+      <price>3,599.00</price>
+      <picture>pc_case2.png</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Monitors</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>Nitro VG252Q P</pname>
+      <price>14,606.00</price>
+      <picture>monitor1.png</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Monitors</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>Acer Gaming Series ED323QUR</pname>
+      <price>31,261.08</price>
+      <picture>monitor2.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Monitors</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>Acer Nitro VG0 VG240Y 23.8"</pname>
+      <price>11,758.00</price>
+      <picture>monitor3.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Monitors</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>Nitro VG252Q P</pname>
+      <price>14,606.00</price>
+      <picture>monitor1.png</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Monitors</pcat>
+      <pbrand>Acer</pbrand>
+      <pname>Nitro VG252Q P</pname>
+      <price>14,606.00</price>
+      <picture>monitor1.png</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Motherboard</pcat>
+      <pbrand>Intel</pbrand>
+      <pname>Intel Core i7</pname>
+      <price>17,200.00</price>
+      <picture>cpu4.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>AMD</pbrand>
+      <pname>AMD Ryzen™ 7 5800X</pname>
+      <price>20,200.00</price>
+      <picture>cpu5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>AMD</pbrand>
+      <pname>AMD Ryzen 5 3600 6-Core 12-Thread 3.6-4.2 ghz </pname>
+      <price>8,450.00</price>
+      <picture>cpu6.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>AMD</pbrand>
+      <pname>AMD Ryzen™ 7 5800X</pname>
+      <price>20,200.00</price>
+      <picture>cpu5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+    <customers>
+      <cid>127</cid>
+      <pid>22</pid>
+      <pcat>Processor</pcat>
+      <pbrand>AMD</pbrand>
+      <pname>AMD Ryzen™ 7 5800X</pname>
+      <price>20,200.00</price>
+      <picture>cpu5.jpg</picture>
+      <quantity>5</quantity>
+      <date>11/11/11</date>
+    </customers>
+  </orders>
+  

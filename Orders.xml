@@ -1,0 +1,110 @@
+<Orders>
+    <Customer>
+        <cid>1</cid>
+        <pid>22</pid>
+        <pcat>Processor</pcat>
+        <pname>Intel i9 9600k</pname>
+        <price>30,000.00</price>
+        <quantity>1</quantity>
+        <date>01/02/2022</date>
+    </Customer>
+    <Customer>
+        <cid>2</cid>
+        <pid>21</pid>
+        <pcat>Motherboard</pcat>
+        <pname>ROG STRIX Z490-H GAMING</pname>
+        <price>14,499.00</price>
+        <quantity>1</quantity>
+        <date>2/12/12</date>
+    </Customer>
+    <Customer>
+        <cid>3</cid>
+        <pid>22</pid>
+        <pcat>Processor</pcat>
+        <pname>Intel core i3 3.6GHz</pname>
+        <price>6,799.00</price>
+        <quantity>5</quantity>
+        <date>2/12/12</date>
+    </Customer>
+    <Customer>
+        <cid>4</cid>
+        <pid>22</pid>
+        <pcat>Memory</pcat>
+        <pname>Kingston HyperX Fury 8gb DDR4</pname>
+        <price>3,499.00</price>
+        <quantity>2</quantity>
+        <date>11/11/11</date>
+    </Customer>
+    <Customer>
+        <cid>5</cid>
+        <pid>22</pid>
+        <pcat>PC Case</pcat>
+        <pname>NZXT H510 Flow (CA-H52FB-01) Tempered Glass ATX Mid Tower Chassis</pname>
+        <price>4,800.00</price>
+        <quantity>1</quantity>
+        <date>11/11/11</date>
+    </Customer>
+    <Customer>
+        <cid>6</cid>
+        <pid>22</pid>
+        <pcat>Monitors</pcat>
+        <pname>Nitro VG252Q P</pname>
+        <price>14,606.00</price>
+        <quantity>1</quantity>
+        <date>11/11/11</date>
+    </Customer>
+    <Customer>
+        <cid>7</cid>
+        <pid>22</pid>
+        <pcat>Processor</pcat>
+        <pname>Intel i9 9600k</pname>
+        <price>30,000.00</price>
+        <quantity>1</quantity>
+        <date>01/02/2022</date>
+    </Customer>
+    <Customer>
+        <cid>8</cid>
+        <pid>21</pid>
+        <pcat>Motherboard</pcat>
+        <pname>ROG STRIX Z490-H GAMING</pname>
+        <price>14,499.00</price>
+        <quantity>1</quantity>
+        <date>2/12/12</date>
+    </Customer>
+    <Customer>
+        <cid>9</cid>
+        <pid>22</pid>
+        <pcat>Processor</pcat>
+        <pname>Intel core i3 3.6GHz</pname>
+        <price>6,799.00</price>
+        <quantity>5</quantity>
+        <date>2/12/12</date>
+    </Customer>
+    <Customer>
+        <cid>10</cid>
+        <pid>22</pid>
+        <pcat>Memory</pcat>
+        <pname>Kingston HyperX Fury 8gb DDR4</pname>
+        <price>3,499.00</price>
+        <quantity>2</quantity>
+        <date>11/11/11</date>
+    </Customer>
+    <Customer>
+        <cid>11</cid>
+        <pid>22</pid>
+        <pcat>PC Case</pcat>
+        <pname>NZXT H510 Flow (CA-H52FB-01) Tempered Glass ATX Mid Tower Chassis</pname>
+        <price>4,800.00</price>
+        <quantity>1</quantity>
+        <date>11/11/11</date>
+    </Customer>
+    <Customer>
+        <cid>12</cid>
+        <pid>22</pid>
+        <pcat>Monitors</pcat>
+        <pname>Nitro VG252Q P</pname>
+        <price>14,606.00</price>
+        <quantity>1</quantity>
+        <date>11/11/11</date>
+    </Customer>
+</Orders>
